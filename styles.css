@@ -14,7 +14,7 @@ nav.main_pages a
 {
      margin: 10px;
      text-decoration: none;
-     border: 2px solid grey;
+     color: white;
 }
 div.up
 {
@@ -45,9 +45,13 @@ section.main
     border: 1px solid grey;
     margin: 50px 25px;
 }
-div#button button img 
+div#button button 
 {
     text-align: center;
+}
+nav.main_pages a img
+{
+    color: white;
 }
 }
 
