@@ -16,6 +16,10 @@ nav.main_pages a
      text-decoration: none;
      color: white;
 }
+nav.main_pages img
+{
+    text-align: center;
+}
 div.up
 {
     float: left;
@@ -48,10 +52,6 @@ section.main
 div#button button 
 {
     text-align: center;
-}
-nav.main_pages a img
-{
-    color: white;
 }
 }
 
